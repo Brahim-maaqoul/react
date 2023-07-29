@@ -7,4 +7,5 @@ function MyButton(){
     )
 }
 
-ReactDOM.render(<MyButton/>, document.querySelector("body"));
+// ReactDOM.render(<MyButton/>, document.querySelector("body"));
+export default MyButton;
